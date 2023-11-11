@@ -1,4 +1,4 @@
-# 0x16 ALX SIMPLE SHELL TEST SUITE
+# 0x16 ALX TEST SUITE
 
 Credit: Cloned from early iterations of [Fuzzworth's test suite](httpthe://github.com/Fuzzworth/alx_test_suite).
 
